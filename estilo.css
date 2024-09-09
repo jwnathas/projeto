@@ -604,7 +604,7 @@ a {
 }
 
 .product-info h1 {
-    font-weight: lighter;
+    font-weight: bold;
 }
 
 .stars-review {
@@ -726,7 +726,7 @@ a {
 
 .product-description h2 {
     padding-left: 0;
-    font-weight: lighter;
+    font-weight: 500;
     margin-bottom: 0;
     padding-top: 2em;
     font-size: 1.4em;
